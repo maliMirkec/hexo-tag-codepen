@@ -1,6 +1,6 @@
 {
-  "name": "hexo-tag-codepen",
-  "version": "0.2.2",
+  "name": "hexo-codepen",
+  "version": "0.1.0",
   "description": "Hexo tag to embed code snippet from codepen.io",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/timnew/hexo-tag-codepen.git"
+    "url": "https://github.com/maliMirkec/hexo-tag-codepen"
   },
   "keywords": [
     "hexo",
     "plugin",
     "tag",
     "codepen",
-    "timnew"
+    "maliMirkec"
   ],
-  "author": "timnew <timnewcnyn@gmail.com> (https://timnew.me/)",
+  "author": "maliMirkec <malimirkeccita@gmail.com> (https://timnew.me/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/timnew/hexo-tag-codepen/issues"
+    "url": "https://github.com/maliMirkec/hexo-tag-codepen/issues"
   },
-  "homepage": "https://github.com/timnew/hexo-tag-codepen"
+  "homepage": "https://github.com/maliMirkec/hexo-tag-codepen"
 }
