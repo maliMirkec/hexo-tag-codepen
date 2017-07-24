@@ -46,16 +46,16 @@ MIT
 [![NPM downloads][npm-downloads]][npm-url]
 
 [homepage]: https://github.com/maliMirkec/hexo-tag-codepen
-[hexo-tag-codepen-link]: https://github.com/timnew/hexo-tag-codepen
+[hexo-tag-codepen-link]: https://github.com/maliMirkec/hexo-tag-codepen
 
 [npm-url]: https://npmjs.org/package/hexo-codepen
 [npm-image]: http://img.shields.io/npm/v/hexo-codepen.svg?style=flat
 [npm-downloads]: http://img.shields.io/npm/dm/hexo-codepen.svg?style=flat
 
-[yarn-url]: https://yarnpkg.com/
+[yarn-url]: https://yarnpkg.com/en/package/hexo-codepen
 
-[depstat-url]: https://gemnasium.com/timnew/hexo-tag-codepen
-[depstat-image]: http://img.shields.io/gemnasium/timnew/hexo-tag-codepen.svg?style=flat
+[depstat-url]: https://gemnasium.com/maliMirkec/hexo-tag-codepen
+[depstat-image]: http://img.shields.io/gemnasium/maliMirkec/hexo-tag-codepen.svg?style=flat
 
 [Hexo]: http://hexo.io/
 [CodePen]: http://codepen.io/
