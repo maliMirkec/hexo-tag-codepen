@@ -1,6 +1,6 @@
 {
   "name": "hexo-codepen",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hexo tag to embed code snippet from codepen.io",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "codepen",
     "maliMirkec"
   ],
-  "author": "maliMirkec <malimirkeccita@gmail.com> (https://timnew.me/)",
+  "author": "maliMirkec <malimirkeccita@gmail.com> (https://www.silvestarbistrovic.from.hr)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/maliMirkec/hexo-tag-codepen/issues"
